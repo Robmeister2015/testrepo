@@ -1,6 +1,6 @@
 
 public class testClass {
 
-	//herlo
+	double salesTax = 100.05;
 	
 }
